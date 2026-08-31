@@ -1,0 +1,16 @@
+{
+  "model_test_accuracy_eurosat": 0.98,
+  "model_val_accuracy": 0.9855555555555555,
+  "our_detected_deforestation_rate_pct": 60.70780399274047,
+  "gfw_reported_deforestation_rate_pct": 6.906848409273068,
+  "overestimate_factor": 8.789508672469887,
+  "aoi_bounds": [
+    -63.0,
+    -10.5,
+    -62.0,
+    -9.5
+  ],
+  "study_region": "Rond\u00f4nia, Brazil",
+  "time_period": "2018-2024",
+  "sample_size_per_year": 3350
+}

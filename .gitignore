@@ -1,0 +1,22 @@
+# Large model/data files — stored on Drive, not in repo
+*.pth
+*.tif
+*.tiff
+*.zip
+eurosat-dataset*
+rondonia_*.tif
+best_model.pth
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Earth Engine credentials (never commit these)
+.config/
+*token*
+kaggle.json
